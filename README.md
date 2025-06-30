@@ -33,3 +33,17 @@ Form handling with FormData
 
 Modular file structure for scalability
 
+
+## How To Run
+
+cd bsckend
+
+npm install
+
+npm start
+
+open another terminal
+
+npm install
+
+npm run dev
