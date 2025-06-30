@@ -36,7 +36,7 @@ Modular file structure for scalability
 
 ## How To Run
 
-cd bsckend
+cd backend
 
 npm install
 
